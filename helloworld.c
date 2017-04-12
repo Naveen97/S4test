@@ -2,6 +2,11 @@
 void hanoy()
 {
   printf("Program is edited by Hanoy");
+
+void nimisha()
+{
+  printf("program is edited by nimisha");
+
 }
 void main()
 {
